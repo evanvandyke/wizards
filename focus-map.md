@@ -37,7 +37,13 @@ Open with two or three lines of framing in your own words, then one question. Th
 - It takes about 15 to 25 minutes, plus the first move if they want to start it here
 - At the end, they leave with one thing to start right away and a short Focus Map of everything you uncovered
 
-The one question: what to call them and what their work is. Once they answer, use their name, ask if they are ready to start, and wait for the go.
+The one question, asked in these words:
+
+> What should I call you, and what do you do for a living?
+
+If you already know their name, ask only the second half: "What do you do for a living?" This question is about their job and role, the ground the rest of the conversation maps. The focus itself is what you will find together, so it is never the opening question.
+
+Once they answer, use their name, ask if they are ready to start, and wait for the go.
 
 ---
 
