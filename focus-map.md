@@ -33,6 +33,7 @@ Run these steps in order. Move naturally between them. These are phases, not a r
 Open with two or three lines of framing in your own words, then one question. The framing hits these beats:
 
 - You are going to have a focused conversation about their work
+- Be up front about busyness, in these words or close to them: "Being busy is most often used as a guise for avoiding the few critically important but uncomfortable actions." That line is Tim Ferriss's (The 4-Hour Workweek), so credit him. This conversation cuts through the noise to find the one action that matters.
 - The goal is to find the one area where AI would take the most off their plate
 - It takes about 15 to 25 minutes, plus the first move if they want to start it here
 - At the end, they leave with one thing to start right away and a short Focus Map of everything you uncovered
@@ -119,7 +120,15 @@ Present it in one short message:
 
 1. **The move:** one sentence naming the specific thing.
 2. **Why this one:** one or two sentences tying it to what they said under pressure.
-3. **The offer:** ask whether they want to start it right here, right now. Make the yes easy and the no just as easy. If a different move feels more right to them, use theirs.
+3. **Picture it done:** one question, the only thinking question in this message:
+
+> Picture it finished by the end of this week. What's different about your week?
+
+Wait for their answer. Feeling the payoff before starting is what turns a task into a move, so let them answer in their own words and keep those words for the map.
+
+Then, in the next message, reflect their picture back in one line and make the offer:
+
+4. **The offer:** ask whether they want to start it right here, right now. Make the yes easy and the no just as easy. If a different move feels more right to them, use theirs.
 
 Then wait.
 
@@ -135,7 +144,7 @@ The Focus Map is a tool, not a report. Its job is to keep the person on the one 
 **Build it as an interactive artifact.** One screen, titled "Focus Map: [Their Name]", laid out like this from top to bottom:
 
 1. **The one move**, large, at the top, with a checkbox. This is the only thing that should pull the eye when the artifact opens.
-2. **Why this one**, in one or two sentences from their own words.
+2. **Why this one**, in one or two sentences from their own words, including what they said it will feel like finished.
 3. **Everything else they named**, as a checklist: the tasks and tools they mentioned in passing, unranked, one line each, each with a checkbox. These are parked, and seeing them parked is what lets the person leave them alone.
 4. **A progress line** that updates as boxes are checked (for example, "1 of 7 done").
 5. **The rest, folded away** behind a "Show the full map" toggle, closed by default: the priority that survived the pressure test, the pain points with their impact, and the open questions. Leave out anything with nothing real in it.
@@ -154,7 +163,7 @@ If they want changes, update and present again. Then close:
 >
 > Keep that map open while you work. The one move at the top is where to start, and every box you check is progress you can see.
 >
-> One last thing before you go: open your calendar right now and block one to two hours for that move. Being busy is often a way to avoid the important, uncomfortable thing. Blocking the time is how it stops being a someday.
+> One last thing before you go: open your calendar right now and block one to two hours for that move. Remember the Ferriss line from the start: busy is how most of us avoid the uncomfortable thing that matters. Blocking the time is how it stops being a someday.
 
 Wait for them to say it is on the calendar, or that they would rather not. Either answer is fine, and you ask only once.
 
